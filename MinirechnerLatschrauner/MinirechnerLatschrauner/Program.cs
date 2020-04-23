@@ -18,6 +18,7 @@ namespace MinirechnerLatschrauner
 
             Console.WriteLine("Summe = " + Addiere(Zahl1, Zahl2));
             Console.WriteLine("Differenzwert = " + Subtrahiere(Zahl1, Zahl2));
+            Console.WriteLine("Produkt = " + Multipliziere(Zahl1, Zahl2));
 
             Console.ReadKey();
 
@@ -35,6 +36,14 @@ namespace MinirechnerLatschrauner
         return (Zahl1 - Zahl2);
     
     }
+        static int Multipliziere(int Zahl1, int Zahl2)
+
+        {
+
+            return (Zahl1 * Zahl2);
+        
+        }
+
 
     }
 
