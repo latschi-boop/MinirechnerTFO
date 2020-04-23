@@ -1,0 +1,4 @@
+C:\Users\Latsch\Desktop\Minirechner Latschrauner\MinirechnerLatschrauner\MinirechnerLatschrauner\bin\Debug\MinirechnerLatschrauner.exe
+C:\Users\Latsch\Desktop\Minirechner Latschrauner\MinirechnerLatschrauner\MinirechnerLatschrauner\bin\Debug\MinirechnerLatschrauner.pdb
+C:\Users\Latsch\Desktop\Minirechner Latschrauner\MinirechnerLatschrauner\MinirechnerLatschrauner\obj\x86\Debug\MinirechnerLatschrauner.exe
+C:\Users\Latsch\Desktop\Minirechner Latschrauner\MinirechnerLatschrauner\MinirechnerLatschrauner\obj\x86\Debug\MinirechnerLatschrauner.pdb
