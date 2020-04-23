@@ -16,7 +16,8 @@ namespace MinirechnerLatschrauner
             Console.WriteLine("Geben sie Zahl 2 ein");
             int Zahl2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Summe" + Addiere(Zahl1, Zahl2));
+            Console.WriteLine("Summe = " + Addiere(Zahl1, Zahl2));
+            Console.WriteLine("Differenzwert = " + Subtrahiere(Zahl1, Zahl2));
 
             Console.ReadKey();
 
@@ -25,11 +26,15 @@ namespace MinirechnerLatschrauner
         static int Addiere(int Zahl1, int Zahl2)
         {
             return (Zahl1 + Zahl2);
-
-        
-        
         
         }
+
+        static int Subtrahiere(int Zahl1, int Zahl2)
+    {
+
+        return (Zahl1 - Zahl2);
+    
+    }
 
     }
 
